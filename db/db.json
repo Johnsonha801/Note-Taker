@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "title": "Note One",
+      "text": "This is my first note",
+      "id": "3w6zbi8kg5nu1lt"
+    },
+    {
+      "title": "Note Two",
+      "text": "This is my second note",
+      "id": "3w6zbi8kg5nu7nw"
+    },
+    {
+      "title": "Note Three",
+      "text": "This is my third note",
+      "id": "3w6zbi8kg5nufmp"
+    }
+  ]
+}
