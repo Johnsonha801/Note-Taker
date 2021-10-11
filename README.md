@@ -23,11 +23,11 @@ Users can utilize this program to quickly generate notes for future reference. U
 
 ## Deployed Application
 
-[DeployedApp]( Link)
+[DeployedApp]( https://fast-temple-82032.herokuapp.com)
 
 ## Questions
 
 GitHub profile [Johnsonha801](https://github.com/Johnsonha801)
 
 ## Generated HTML document example:
-![Working Project Screenshot](/app.PNG)
+![Working Project Screenshot](https://user-images.githubusercontent.com/84554237/136722141-142fb41e-6439-4f67-983c-7d8a744ba120.png)
